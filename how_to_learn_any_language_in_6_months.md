@@ -1,14 +1,14 @@
 # TED-6-.md
 
-===
+---
 
 ![【TED】6個月掌握流利的外語學習方法 How to learn any language in six months ](https://www.youtube.com/watch?v=FrMSSQRYS6I)
 
-===
+---
 
 # Every one can learn a language in 6 months
 
-=== 
+--- 
 
 ## how
 
@@ -28,54 +28,54 @@
 *	Attention
 *	Memory
 
-===
+---
 
 ## Relevance
 
 *	Information that helps achieve Personal Goals has relevance
 
-===
+---
 
 ## Principle I
 
 *	Focus on language content that is relevance to you
 * 	master the tools 
-===
+---
 
 ## Principle II
 
 *	To your new language as a tool to communicate from day I
-===
+---
 
 ## Principle III
 
 *	When you first Understand the Message you will unconsciously acquire the language.
 *	Physiological training
-===
+---
 
 ## Principle 4 
 
 * 	talking takes muscle
 
-===
+---
 
 ## Priciple 5
 
 *	psycho-physiological state matters ( keep you mind happy and curiosity )
 *	you must learn to tolerate ambiguity
 
-===
+---
 
 ## now we talking about 7 actions
 
-===
+---
 
 ## action I
 
 *	listen a lot
 *	brain soaking
 
-===
+---
 
 ## action II
 
@@ -84,14 +84,14 @@
 * 	use the pattern you already know
 *	vietnamese = 30 % mandarin + 30 % cantonese
 
-===
+---
 
 ## action 3
 
 *	start mixing => use the word you already know to make sentence
 *	10 verbs * 10 nouns * 10 adjectives = 1000 possible phrases
 
-===
+---
 
 ## action 4
 
@@ -106,7 +106,7 @@
 	* week 4 glue words
 		* and, but, even though
 
-===
+---
 
 # action 5 get a language parent
 
@@ -115,14 +115,14 @@
 *	confirms understanding by using correct language
 *	uses words the learner knows
 
-===
+---
 
 # action 6 copy the face
 
 *	find out the videos/ picture that illustrate the word / meaning	
-===
+---
 
 # action 7 	direc connect to mental images
 
 *	connect the word with the image with different path ( which will much easier )	
-===
+---
