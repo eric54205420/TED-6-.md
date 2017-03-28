@@ -12,11 +12,11 @@
 
 ## how
 
-	###5 priciple 
-	###7 actions
+	### 5 priciple 
+	### 7 actions
 
-	~~talent~~
-	~~Immersion per se~~	
+	~~ talent ~~
+	~~ Immersion per se ~~	
 	
 
 ===
